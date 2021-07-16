@@ -34,6 +34,9 @@
       },
       {
         "text": "ffffffffffffff"
+      },
+      {
+        "text": "rer"
       }
     ],
     "img": "assets/img/bmw.jpg"
@@ -82,7 +85,11 @@
     "marque": "Kia",
     "annee": 2015,
     "matricule": "1215TAB",
-    "comment": [],
+    "comment": [
+      {
+        "text": "commentaire"
+      }
+    ],
     "img": "assets/img/kia.jpg"
   },
   {
