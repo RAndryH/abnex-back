@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "marque": "Mercedes",
+    "annee": 2011,
+    "matricule": "1211TAB",
+    "comment": [
+      {
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "text": "sss"
+      }
+    ],
+    "img": "assets/img/mercedes.jpg"
+  },
+  {
+    "id": 2,
+    "marque": "BMW",
+    "annee": 2012,
+    "matricule": "1212TAB",
+    "comment": [
+      {
+        "text": "ffffffffffffff"
+      },
+      {
+        "text": "ffffffffffffff"
+      },
+      {
+        "text": "ffffffffffffff"
+      },
+      {
+        "text": "ffffffffffffff"
+      },
+      {
+        "text": "ffffffffffffff"
+      }
+    ],
+    "img": "assets/img/bmw.jpg"
+  },
+  {
+    "id": 3,
+    "marque": "Renault",
+    "annee": 2013,
+    "matricule": "1213TAB",
+    "comment": [
+      {
+        "text": "sss"
+      },
+      {
+        "text": "xxx"
+      },
+      {
+        "text": "ddd"
+      },
+      {
+        "text": "ggg"
+      },
+      {
+        "text": "fdfdfd"
+      },
+      {
+        "text": "dfdf"
+      }
+    ],
+    "img": "assets/img/renault.jpg"
+  },
+  {
+    "id": 4,
+    "marque": "Nissan",
+    "annee": 2014,
+    "matricule": "1214TAB",
+    "comment": [
+      {
+        "text": "Mahafinaritra"
+      }
+    ],
+    "img": "assets/img/nissan.jpg"
+  },
+  {
+    "id": 5,
+    "marque": "Kia",
+    "annee": 2015,
+    "matricule": "1215TAB",
+    "comment": [],
+    "img": "assets/img/kia.jpg"
+  },
+  {
+    "id": 6,
+    "marque": "Hyundai",
+    "annee": 2016,
+    "matricule": "1216TAB",
+    "comment": [],
+    "img": "assets/img/hyundai.jpg"
+  }
+]
